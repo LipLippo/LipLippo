@@ -1,39 +1,34 @@
-<!-- BANNER STATIK MODERN MINIMALIS -->
+<!-- BANNER MODERN MINIMALIS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=180&section=header&text=LipLippo&fontSize=75&theme=tokyonight" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1f2937&height=160&section=header&text=Alif%20Nur%20Satria&fontSize=65&fontColor=ffffff" width="100%" alt="Header Banner" />
 </p>
 
-<!-- SUBTITLE STATIK BERSIH -->
-<h2 align="center">🛠️ Mastering Django & Godot Engine</h2>
-<p align="center"><i>Crafting Clean Code and Immersive Experiences</i></p>
+<!-- SUBTITLE WEB ARTISAN -->
+<h2 align="center">💻 Fullstack Web Developer & Artisan</h2>
+<p align="center"><i>Building robust web applications and clean digital solutions.</i></p>
 
 <p align="center">
-  <!-- BADGE VISITOR & FOLLOWERS MINIMALIS SENADA -->
-  <img src="https://komarev.com/ghpvc/?username=LipLippo&color=39a0ed&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
-  <img src="https://img.shields.io/github/followers/LipLippo?label=FOLLOWERS&style=flat-square&color=6f42c1" alt="Followers" />
+  <!-- BADGE VISITOR & FOLLOWERS SENADA -->
+  <img src="https://komarev.com/ghpvc/?username=LipLippo&color=4f46e5&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+  <img src="https://img.shields.io/github/followers/LipLippo?label=FOLLOWERS&style=flat-square&color=06b6d4" alt="Followers" />
 </p>
 
 ---
 
-### 👤 About Me
+### 🚀 About Me
 
-```python
-class LipLippo:
-    def __init__(self):
-        self.name       = "Alif Nur Satria"
-        self.education  = "Undergraduate Student"
-        self.interests  = [
-            "Software Development", 
-            "Game Development", 
-            "UI/UX Design", 
-            "IoT Integration"
-        ]
-        self.frameworks = ["Django", "Godot Engine", "Unity", "TensorFlow Lite"]
-        self.tools      = ["Figma", "Git", "VS Code"]
-        self.status     = "Crafting clean code and immersive experiences."
+```php
+<?php
 
-    def say_hi(self):
-        print("Makasih udah mampir, King! 🚀")
+$developer = [
+    'name'       => 'Alif Nur Satria',
+    'role'       => 'Undergraduate IT Student',
+    'experience' => [
+        'Frontend' => ['HTML5', 'CSS3', 'JavaScript', 'Blade Engine'],
+        'Backend'  => ['PHP Native', 'Laravel', 'CodeIgniter 3']
+    ],
+    'focus'      => 'Clean code, MVC architecture, and responsive web design.',
+    'status'     => 'Open for collaboration and web development projects.'
+];
 
-me = LipLippo()
-me.say_hi()
+echo "Welcome to my digital workspace! ⚡";
