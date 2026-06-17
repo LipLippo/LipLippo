@@ -1,26 +1,37 @@
-<h1 align="center">Hi, I'm Alif Nur 🚀</h1>
-<p align="center"><i>Crafting software, games, and clean user experiences.</i></p>
-
----
-
-### 💫 About Me
-- 🎓 Currently pursuing a degree in Information Technology.
-- 💻 Passionate about Web Development and Interactive Game Design.
-- 🛠️ Currently exploring Deep Learning integration for mobile apps.
-- ⚡ Fun fact: I love tweaking UI/UX designs down to the last pixel.
-
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LipLippo&show_icons=true&theme=dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipLippo&layout=compact&theme=dark&hide_border=true" height="150" />
+  <!-- BANNER ANIME SIMPEL -->
+  <img src="https://wallpapers.com/images/featured/anime-banner-v79g6g8df3946p7z.jpg" width="100%" alt="Banner" />
 </p>
+
+<h2 align="center">⚡ Mastering Django & Godot Engine ⚡</h2>
+
+<p align="center">
+  <!-- BADGE VISITOR & FOLLOWERS (Otomatis Update) -->
+  <img src="https://komarev.com/ghpvc/?username=LipLippo&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+  <img src="https://img.shields.io/github/followers/LipLippo?label=FOLLOWERS&style=flat-square&color=007acc" alt="Followers" />
+</p>
+
+---
+
+### 👤 About Me
+
+```python
+class LipLippo:
+    def __init__(self):
+        self.name       = "Alif Nur Satria"
+        self.education  = "Undergraduate Student"
+        self.interests  = [
+            "Software Development", 
+            "Game Development", 
+            "UI/UX Design", 
+            "IoT Integration"
+        ]
+        self.frameworks = ["Django", "Godot Engine", "Unity", "TensorFlow Lite"]
+        self.tools      = ["Figma", "Git", "VS Code"]
+        self.status     = "Crafting clean code and immersive experiences."
+
+    def say_hi(self):
+        print("Makasih udah mampir, King! 🚀")
+
+me = LipLippo()
+me.say_hi()
