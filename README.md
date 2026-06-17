@@ -1,29 +1,12 @@
-<div align="center">
+🌱 Currently sharpening skills in **Laravel** & **CodeIgniter** for web development
 
-# Hi, I'm Alif 👋
+🎮 Exploring **Godot Engine** and **Unity** to build small game projects
 
-### Software Developer · Game Dev Enthusiast · IoT Tinkerer
+📡 Tinkering with **IoT integrations** — ESP8266, DHT22, and other smart hardware
 
-</div>
+🎨 Care a lot about clean UI/UX, not just code that works but code that feels good to use
 
----
-
-### 🧠 About Me
-
-```python
-class Alif:
-    def __init__(self):
-        self.name      = "Alif Nur Satria"
-        self.role      = "Informatics Engineering Student"
-        self.focus     = ["Web Development", "Game Development", "IoT Systems"]
-        self.status    = "Building clean, functional, and immersive things"
-
-    def say_hi(self):
-        print("Thanks for stopping by, King! 🚀")
-
-me = Alif()
-me.say_hi()
-```
+🚀 Currently crafting: *clean code and immersive experiences*
 
 ---
 
@@ -52,7 +35,7 @@ me.say_hi()
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=LipLippo&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=LipLippo&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LipLippo&theme=tokyonight&hide_border=true" width="48%" />
 
 ---
